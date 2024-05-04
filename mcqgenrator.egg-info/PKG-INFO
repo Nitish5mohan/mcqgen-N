@@ -1,0 +1,10 @@
+Metadata-Version: 2.1
+Name: mcqgenrator
+Version: 0.0.1
+Author: Nitish kumar
+Author-email:  nce2226@gmail.com
+Requires-Dist: huggingface
+Requires-Dist: langchain
+Requires-Dist: streamlit
+Requires-Dist: python-dotenv
+Requires-Dist: PyPDF2

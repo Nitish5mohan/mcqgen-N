@@ -1,0 +1,8 @@
+# openai/ Hugggingface
+langchain
+streamlit
+python-dotenv
+PyPDF2
+
+
+-e.
